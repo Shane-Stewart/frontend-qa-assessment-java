@@ -22,7 +22,8 @@ public class AssessmentTest extends BaseTest {
      Your next test should:
         1. Interact with the menu on the left of the page and click "Input Forms"
         2. On the sub-menu, click "Checkbox Demo"
-        3. Under "Multiple Checkbox Demo" validate the three requirments listed for the select all buttton text
+        3. Validate that the three bullet point requirments 
+           in the "Multipule Checkbox Demo" section are being met
 */
     @Test(enabled=false)
     public void checkboxTest() {
